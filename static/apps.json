@@ -1,8 +1,8 @@
 [
     {
-        "title": "Google",
-        "img": "./img/apps/google.jpg",
-        "location": "https://www.google.com"
+        "title": "Minecraft",
+        "img": "./img/apps/minecraft_logo_icon_168974.png",
+        "location": "https://precisionclient.vercel.app/"
     },
     {
         "title": "Youtube",
