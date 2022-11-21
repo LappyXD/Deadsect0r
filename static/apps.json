@@ -5,14 +5,14 @@
         "location": "https://precisionclient.vercel.app/"
     },
     {
-        "title": "Youtube",
-        "img": "./img/apps/yt.png",
-        "location": "https://www.youtube.com"
+        "title": "Retroarch",
+        "img": "./img/apps/canvas.png",
+        "location": "https://web.libretro.com"
     },
     {
-        "title": "Spotify",
-        "img": "./img/apps/spot.png",
-        "location": "https://open.spotify.com"
+        "title": "9anime",
+        "img": "./img/apps/9anime.png",
+        "location": "https://9anime.to"
     },
     {
         "title": "Twitter",
