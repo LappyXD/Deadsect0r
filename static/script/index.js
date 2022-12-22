@@ -57,7 +57,7 @@ document.querySelector('#close-nav').addEventListener('click', app.closeNav);
 document.title = localStorage.getItem('incog||title') || 'DeadSect0r';
 window.icon = document.querySelector('#favicon');
 
-icon.href = localStorage.getItem('incog||icon') || './index.svg';
+icon.href = localStorage.getItem('incog||icon') || './dedsec.png';
 
 app.on('init', () => {
     app.icon = document.querySelector('#favicon');
